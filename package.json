@@ -1,0 +1,30 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUWPAW/Excel-JS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Ignatenko Igor <ignatenkopo4ta@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUWPAW/Excel-JS/issues"
+  },
+  "homepage": "https://github.com/PUWPAW/Excel-JS#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
