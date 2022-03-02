@@ -50,6 +50,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.8.7",
     "normalize.css": "^8.0.1",
-    "url-parse": ">=1.5.0"
+    "url-parse": ">=1.5.9"
   }
 }
